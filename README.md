@@ -1,2 +1,2 @@
-# background-changer
-can change background by mouse movement. made on visual studio code
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
